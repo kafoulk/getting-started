@@ -1,9 +1,16 @@
+
+
 .bigRedFont {
     color:red;
     font-size:30px;
+    margin:20px 100px;
+}
 
+.allText {
+    margin:0 100px;
 }
 
 .blueFont {
     color: blue;
-}
+    margin:0 100px;
+} 
